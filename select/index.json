@@ -1,0 +1,216 @@
+{
+  "version": 1,
+  "base_track": "I love you",
+  "base_artist": "カイジューバイミー",
+  "createdAt": "2026-03-31T11:08:23.080853Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ily (i love you baby) [feat. Emilee]",
+      "artist": "Surf Mesa",
+      "has_synced": true,
+      "path": "select/01_ily_(i_love_you_baby)_[feat._Emilee]_Surf_Mesa.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "But You Know I Love You",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/02_But_You_Know_I_Love_You_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Be Stupid (You Know I Love You)",
+      "artist": "Shania Twain",
+      "has_synced": true,
+      "path": "select/03_Don't_Be_Stupid_(You_Know_I_Love_You)_Shania_Twain.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't You Know How Much I Love You",
+      "artist": "Ronnie Milsap",
+      "has_synced": false,
+      "path": "select/04_Don't_You_Know_How_Much_I_Love_You_Ronnie_Milsap.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Love You",
+      "artist": "Martina McBride",
+      "has_synced": true,
+      "path": "select/05_I_Love_You_Martina_McBride.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Love You More",
+      "artist": "Avery Anna",
+      "has_synced": true,
+      "path": "select/06_I_Love_You_More_Avery_Anna.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Love You More",
+      "artist": "Avery Anna",
+      "has_synced": true,
+      "path": "select/07_I_Love_You_More_Avery_Anna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Love You More Today",
+      "artist": "Conway Twitty",
+      "has_synced": false,
+      "path": "select/08_I_Love_You_More_Today_Conway_Twitty.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Want You, I Need You, I Love You",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/09_I_Want_You,_I_Need_You,_I_Love_You_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "That's When I Love You",
+      "artist": "Phil Vassar",
+      "has_synced": true,
+      "path": "select/10_That's_When_I_Love_You_Phil_Vassar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "That's When I Love You",
+      "artist": "Phil Vassar",
+      "has_synced": false,
+      "path": "select/11_That's_When_I_Love_You_Phil_Vassar.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love You",
+      "artist": "王若琳",
+      "has_synced": true,
+      "path": "select/12_I_Love_You_王若琳.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fuck it I love you",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/13_Fuck_it_I_love_you_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Love You Always Forever",
+      "artist": "Donna Lewis",
+      "has_synced": true,
+      "path": "select/14_I_Love_You_Always_Forever_Donna_Lewis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Love You Because",
+      "artist": "Jim Reeves",
+      "has_synced": true,
+      "path": "select/15_I_Love_You_Because_Jim_Reeves.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "I Love You",
+      "artist": "The Zombies",
+      "has_synced": false,
+      "path": "select/16_I_Love_You_The_Zombies.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Cuz I Love You",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/17_Cuz_I_Love_You_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "I Don't Like It, I Love It (Mixed)",
+      "artist": "Flo Rida feat. Robin Thicke & Verdine White",
+      "has_synced": false,
+      "path": "select/18_I_Don't_Like_It,_I_Love_It_(Mixed)_Flo_Rida_feat._Robin_Thicke_&_Verdine_White.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/19_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Like I Love Country Music",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/20_Like_I_Love_Country_Music_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Everything I Love",
+      "artist": "Alan Jackson",
+      "has_synced": true,
+      "path": "select/21_Everything_I_Love_Alan_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "I Just Wish You Were Someone I Love",
+      "artist": "Larry Gatlin & The Gatlin Brothers",
+      "has_synced": true,
+      "path": "select/22_I_Just_Wish_You_Were_Someone_I_Love_Larry_Gatlin_&_The_Gatlin_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "I Like It, I Love It",
+      "artist": "Tim McGraw",
+      "has_synced": true,
+      "path": "select/23_I_Like_It,_I_Love_It_Tim_McGraw.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Love",
+      "artist": "Tom T. Hall",
+      "has_synced": true,
+      "path": "select/24_I_Love_Tom_T._Hall.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "I Love My Country",
+      "artist": "Florida Georgia Line",
+      "has_synced": false,
+      "path": "select/25_I_Love_My_Country_Florida_Georgia_Line.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I LOVE YOU",
+      "artist": "カイジューバイミー",
+      "has_synced": false,
+      "path": "select/pl_01_I_LOVE_YOU_カイジューバイミー.txt"
+    }
+  ]
+}
